@@ -1,0 +1,386 @@
+Nov 09, 2023 10:43:58 AM ttt1 startNewGame
+INFO: Game 01 Started
+Nov 09, 2023 10:43:58 AM ttt1 computer_move_x
+INFO: X placed at (2,2).
+Nov 09, 2023 10:43:58 AM ttt1 computer_move_o
+INFO: O placed at 1,1
+Nov 09, 2023 10:43:58 AM ttt1 computer_move_o
+INFO: X placed at (1,1).
+Nov 09, 2023 10:43:58 AM ttt1 computer_move_x
+INFO: X placed at (3,1).
+Nov 09, 2023 10:43:59 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:43:59 AM ttt1 computer_move_o
+INFO: X placed at (1,3).
+Nov 09, 2023 10:43:59 AM ttt1 computer_move_x
+INFO: X placed at (1,2).
+Nov 09, 2023 10:43:59 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:43:59 AM ttt1 computer_move_o
+INFO: X placed at (3,2).
+Nov 09, 2023 10:43:59 AM ttt1 computer_move_x
+INFO: X placed at (2,3).
+Nov 09, 2023 10:44:00 AM ttt1 computer_move_o
+INFO: O placed at 2,1
+Nov 09, 2023 10:44:00 AM ttt1 computer_move_o
+INFO: X placed at (2,1).
+Nov 09, 2023 10:44:00 AM ttt1 computer_move_x
+INFO: X placed at (3,3).
+Nov 09, 2023 10:44:02 AM ttt1 stopResetGame
+INFO: It's a Tie!!
+Nov 09, 2023 10:44:02 AM ttt1 stopResetGame
+INFO: Game 1 Ended
+Nov 09, 2023 10:44:07 AM ttt1 startNewGame
+INFO: Game 01 Started
+Nov 09, 2023 10:44:08 AM ttt1 computer_move_x
+INFO: X placed at (2,2).
+Nov 09, 2023 10:44:08 AM ttt1 computer_move_o
+INFO: O placed at 1,1
+Nov 09, 2023 10:44:08 AM ttt1 computer_move_o
+INFO: X placed at (1,1).
+Nov 09, 2023 10:44:08 AM ttt1 computer_move_x
+INFO: X placed at (3,1).
+Nov 09, 2023 10:44:09 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:44:09 AM ttt1 computer_move_o
+INFO: X placed at (1,3).
+Nov 09, 2023 10:44:09 AM ttt1 computer_move_x
+INFO: X placed at (1,2).
+Nov 09, 2023 10:44:09 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:44:09 AM ttt1 computer_move_o
+INFO: X placed at (3,2).
+Nov 09, 2023 10:44:09 AM ttt1 computer_move_x
+INFO: X placed at (2,3).
+Nov 09, 2023 10:44:10 AM ttt1 computer_move_o
+INFO: O placed at 2,1
+Nov 09, 2023 10:44:10 AM ttt1 computer_move_o
+INFO: X placed at (2,1).
+Nov 09, 2023 10:44:10 AM ttt1 computer_move_x
+INFO: X placed at (3,3).
+Nov 09, 2023 10:44:11 AM ttt1 stopResetGame
+INFO: It's a Tie!!
+Nov 09, 2023 10:44:11 AM ttt1 stopResetGame
+INFO: Game 1 Ended
+Nov 09, 2023 10:44:11 AM ttt1 startNewGame
+INFO: Game 11 Started
+Nov 09, 2023 10:44:11 AM ttt1 computer_move_x
+INFO: X placed at (2,2).
+Nov 09, 2023 10:44:12 AM ttt1 computer_move_o
+INFO: O placed at 1,1
+Nov 09, 2023 10:44:12 AM ttt1 computer_move_o
+INFO: X placed at (1,1).
+Nov 09, 2023 10:44:12 AM ttt1 computer_move_x
+INFO: X placed at (3,1).
+Nov 09, 2023 10:44:12 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:44:12 AM ttt1 computer_move_o
+INFO: X placed at (1,3).
+Nov 09, 2023 10:44:12 AM ttt1 computer_move_x
+INFO: X placed at (1,2).
+Nov 09, 2023 10:44:13 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:44:13 AM ttt1 computer_move_o
+INFO: X placed at (3,2).
+Nov 09, 2023 10:44:13 AM ttt1 computer_move_x
+INFO: X placed at (2,3).
+Nov 09, 2023 10:44:13 AM ttt1 computer_move_o
+INFO: O placed at 2,1
+Nov 09, 2023 10:44:13 AM ttt1 computer_move_o
+INFO: X placed at (2,1).
+Nov 09, 2023 10:44:13 AM ttt1 computer_move_x
+INFO: X placed at (3,3).
+Nov 09, 2023 10:44:16 AM ttt1 stopResetGame
+INFO: It's a Tie!!
+Nov 09, 2023 10:44:16 AM ttt1 stopResetGame
+INFO: Game 2 Ended
+Nov 09, 2023 10:44:16 AM ttt1 startNewGame
+INFO: Game 21 Started
+Nov 09, 2023 10:44:16 AM ttt1 computer_move_x
+INFO: X placed at (2,2).
+Nov 09, 2023 10:44:16 AM ttt1 computer_move_o
+INFO: O placed at 1,1
+Nov 09, 2023 10:44:16 AM ttt1 computer_move_o
+INFO: X placed at (1,1).
+Nov 09, 2023 10:44:17 AM ttt1 computer_move_x
+INFO: X placed at (3,1).
+Nov 09, 2023 10:44:17 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:44:17 AM ttt1 computer_move_o
+INFO: X placed at (1,3).
+Nov 09, 2023 10:44:17 AM ttt1 computer_move_x
+INFO: X placed at (1,2).
+Nov 09, 2023 10:44:17 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:44:17 AM ttt1 computer_move_o
+INFO: X placed at (3,2).
+Nov 09, 2023 10:44:18 AM ttt1 computer_move_x
+INFO: X placed at (2,3).
+Nov 09, 2023 10:44:18 AM ttt1 computer_move_o
+INFO: O placed at 2,1
+Nov 09, 2023 10:44:18 AM ttt1 computer_move_o
+INFO: X placed at (2,1).
+Nov 09, 2023 10:44:18 AM ttt1 computer_move_x
+INFO: X placed at (3,3).
+Nov 09, 2023 10:44:22 AM ttt1 stopResetGame
+INFO: It's a Tie!!
+Nov 09, 2023 10:44:22 AM ttt1 stopResetGame
+INFO: Game 3 Ended
+Nov 09, 2023 10:44:22 AM ttt1 startNewGame
+INFO: Game 31 Started
+Nov 09, 2023 10:44:22 AM ttt1 computer_move_x
+INFO: X placed at (2,2).
+Nov 09, 2023 10:44:22 AM ttt1 computer_move_o
+INFO: O placed at 1,1
+Nov 09, 2023 10:44:22 AM ttt1 computer_move_o
+INFO: X placed at (1,1).
+Nov 09, 2023 10:44:22 AM ttt1 computer_move_x
+INFO: X placed at (3,1).
+Nov 09, 2023 10:44:23 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:44:23 AM ttt1 computer_move_o
+INFO: X placed at (1,3).
+Nov 09, 2023 10:44:23 AM ttt1 computer_move_x
+INFO: X placed at (1,2).
+Nov 09, 2023 10:44:23 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:44:23 AM ttt1 computer_move_o
+INFO: X placed at (3,2).
+Nov 09, 2023 10:44:23 AM ttt1 computer_move_x
+INFO: X placed at (2,3).
+Nov 09, 2023 10:44:24 AM ttt1 computer_move_o
+INFO: O placed at 2,1
+Nov 09, 2023 10:44:24 AM ttt1 computer_move_o
+INFO: X placed at (2,1).
+Nov 09, 2023 10:44:24 AM ttt1 computer_move_x
+INFO: X placed at (3,3).
+Nov 09, 2023 10:44:26 AM ttt1 stopResetGame
+INFO: It's a Tie!!
+Nov 09, 2023 10:44:26 AM ttt1 stopResetGame
+INFO: Game 4 Ended
+Nov 09, 2023 10:44:28 AM ttt1$nGamesListener$1 done
+INFO: Total X-Wins : 0
+Nov 09, 2023 10:44:28 AM ttt1$nGamesListener$1 done
+INFO: Total O-Wins : 0
+Nov 09, 2023 10:44:28 AM ttt1$nGamesListener$1 done
+INFO: Total Ties : 4
+Nov 09, 2023 10:44:28 AM ttt1$nGamesListener$1 done
+INFO: Overall Winner is No One
+Nov 09, 2023 10:44:31 AM ttt1 startNewGame
+INFO: Game 41 Started
+Nov 09, 2023 10:44:31 AM ttt1 computer_move_x
+INFO: X placed at (2,2).
+Nov 09, 2023 10:44:31 AM ttt1 computer_move_o
+INFO: O placed at 1,1
+Nov 09, 2023 10:44:31 AM ttt1 computer_move_o
+INFO: X placed at (1,1).
+Nov 09, 2023 10:44:31 AM ttt1 computer_move_x
+INFO: X placed at (3,1).
+Nov 09, 2023 10:44:32 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:44:32 AM ttt1 computer_move_o
+INFO: X placed at (1,3).
+Nov 09, 2023 10:44:38 AM ttt1 startNewGame
+INFO: Game 41 Started
+Nov 09, 2023 10:44:38 AM ttt1 computer_move_x
+INFO: X placed at (2,2).
+Nov 09, 2023 10:44:38 AM ttt1 computer_move_o
+INFO: O placed at 1,1
+Nov 09, 2023 10:44:38 AM ttt1 computer_move_o
+INFO: X placed at (1,1).
+Nov 09, 2023 10:44:39 AM ttt1 computer_move_x
+INFO: X placed at (3,1).
+Nov 09, 2023 10:44:39 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:44:39 AM ttt1 computer_move_o
+INFO: X placed at (1,3).
+Nov 09, 2023 10:44:39 AM ttt1 computer_move_x
+INFO: X placed at (1,2).
+Nov 09, 2023 10:44:39 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:44:39 AM ttt1 computer_move_o
+INFO: X placed at (3,2).
+Nov 09, 2023 10:44:40 AM ttt1 computer_move_x
+INFO: X placed at (2,3).
+Nov 09, 2023 10:44:40 AM ttt1 computer_move_o
+INFO: O placed at 2,1
+Nov 09, 2023 10:44:40 AM ttt1 computer_move_o
+INFO: X placed at (2,1).
+Nov 09, 2023 10:44:40 AM ttt1 computer_move_x
+INFO: X placed at (3,3).
+Nov 09, 2023 10:44:45 AM ttt1 stopResetGame
+INFO: It's a Tie!!
+Nov 09, 2023 10:44:45 AM ttt1 stopResetGame
+INFO: Game 5 Ended
+Nov 09, 2023 10:44:53 AM ttt1 startNewGame
+INFO: Game 51 Started
+Nov 09, 2023 10:44:55 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:44:55 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:44:56 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:44:56 AM ttt1 computer_move_o
+INFO: O placed at 3,1
+Nov 09, 2023 10:44:57 AM ttt1 actionPerformed
+INFO: X's move (1,2).
+Nov 09, 2023 10:44:57 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:44:58 AM ttt1 stopResetGame
+INFO: Player2(O) wins!!
+Nov 09, 2023 10:44:58 AM ttt1 stopResetGame
+INFO: Game 6 Ended
+Nov 09, 2023 10:44:59 AM ttt1 startNewGame
+INFO: Game 61 Started
+Nov 09, 2023 10:45:00 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:45:00 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:00 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:45:00 AM ttt1 computer_move_o
+INFO: O placed at 3,1
+Nov 09, 2023 10:45:01 AM ttt1 actionPerformed
+INFO: X's move (3,3).
+Nov 09, 2023 10:45:01 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:45:02 AM ttt1 stopResetGame
+INFO: Player2(O) wins!!
+Nov 09, 2023 10:45:02 AM ttt1 stopResetGame
+INFO: Game 7 Ended
+Nov 09, 2023 10:45:03 AM ttt1 startNewGame
+INFO: Game 71 Started
+Nov 09, 2023 10:45:04 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:45:04 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:04 AM ttt1 actionPerformed
+INFO: X's move (1,2).
+Nov 09, 2023 10:45:04 AM ttt1 computer_move_o
+INFO: O placed at 3,3
+Nov 09, 2023 10:45:05 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:45:05 AM ttt1 computer_move_o
+INFO: O placed at 3,1
+Nov 09, 2023 10:45:06 AM ttt1 actionPerformed
+INFO: X's move (1,3).
+Nov 09, 2023 10:45:06 AM ttt1 stopResetGame
+INFO: Player1(X) wins!!
+Nov 09, 2023 10:45:07 AM ttt1 stopResetGame
+INFO: Game 8 Ended
+Nov 09, 2023 10:45:07 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:45:08 AM ttt1 stopResetGame
+INFO: Player1(X) wins!!
+Nov 09, 2023 10:45:08 AM ttt1 stopResetGame
+INFO: Game 9 Ended
+Nov 09, 2023 10:45:12 AM ttt1 startNewGame
+INFO: Game 91 Started
+Nov 09, 2023 10:45:13 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:45:13 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:14 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:45:14 AM ttt1 computer_move_o
+INFO: O placed at 3,1
+Nov 09, 2023 10:45:14 AM ttt1 actionPerformed
+INFO: X's move (1,2).
+Nov 09, 2023 10:45:14 AM ttt1 computer_move_o
+INFO: O placed at 1,3
+Nov 09, 2023 10:45:15 AM ttt1 stopResetGame
+INFO: Player2(O) wins!!
+Nov 09, 2023 10:45:15 AM ttt1 stopResetGame
+INFO: Game 10 Ended
+Nov 09, 2023 10:45:17 AM ttt1 startNewGame
+INFO: Game 101 Started
+Nov 09, 2023 10:45:17 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:45:17 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:18 AM ttt1 actionPerformed
+INFO: X's move (1,2).
+Nov 09, 2023 10:45:18 AM ttt1 computer_move_o
+INFO: O placed at 3,3
+Nov 09, 2023 10:45:18 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:45:18 AM ttt1 computer_move_o
+INFO: O placed at 3,1
+Nov 09, 2023 10:45:19 AM ttt1 actionPerformed
+INFO: X's move (1,3).
+Nov 09, 2023 10:45:20 AM ttt1 stopResetGame
+INFO: Player1(X) wins!!
+Nov 09, 2023 10:45:20 AM ttt1 stopResetGame
+INFO: Game 11 Ended
+Nov 09, 2023 10:45:20 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:45:21 AM ttt1 stopResetGame
+INFO: Player1(X) wins!!
+Nov 09, 2023 10:45:21 AM ttt1 stopResetGame
+INFO: Game 12 Ended
+Nov 09, 2023 10:45:32 AM ttt1 startNewGame
+INFO: Game 121 Started
+Nov 09, 2023 10:45:35 AM ttt1 startNewGame
+INFO: Game 01 Started
+Nov 09, 2023 10:45:37 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:45:37 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:37 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:37 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:45:39 AM ttt1 startNewGame
+INFO: Game 01 Started
+Nov 09, 2023 10:45:40 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:45:40 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:40 AM ttt1 actionPerformed
+INFO: X's move (1,2).
+Nov 09, 2023 10:45:40 AM ttt1 computer_move_o
+INFO: O placed at 3,3
+Nov 09, 2023 10:45:41 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:45:41 AM ttt1 computer_move_o
+INFO: O placed at 3,1
+Nov 09, 2023 10:45:41 AM ttt1 actionPerformed
+INFO: X's move (1,3).
+Nov 09, 2023 10:45:42 AM ttt1 stopResetGame
+INFO: Player1(X) wins!!
+Nov 09, 2023 10:45:42 AM ttt1 stopResetGame
+INFO: Game 1 Ended
+Nov 09, 2023 10:45:42 AM ttt1 startNewGame
+INFO: Game 11 Started
+Nov 09, 2023 10:45:43 AM ttt1 actionPerformed
+INFO: X's move (1,2).
+Nov 09, 2023 10:45:43 AM ttt1 computer_move_o
+INFO: O placed at 2,2
+Nov 09, 2023 10:45:43 AM ttt1 actionPerformed
+INFO: X's move (2,1).
+Nov 09, 2023 10:45:43 AM ttt1 computer_move_o
+INFO: O placed at 3,3
+Nov 09, 2023 10:45:44 AM ttt1 actionPerformed
+INFO: X's move (1,1).
+Nov 09, 2023 10:45:44 AM ttt1 computer_move_o
+INFO: O placed at 3,1
+Nov 09, 2023 10:45:45 AM ttt1 actionPerformed
+INFO: X's move (1,3).
+Nov 09, 2023 10:45:46 AM ttt1 stopResetGame
+INFO: Player1(X) wins!!
+Nov 09, 2023 10:45:46 AM ttt1 stopResetGame
+INFO: Game 2 Ended
+Nov 09, 2023 10:45:46 AM ttt1 computer_move_o
+INFO: O placed at 3,2
+Nov 09, 2023 10:45:47 AM ttt1$nGamesListener$1 done
+INFO: Total X-Wins : 2
+Nov 09, 2023 10:45:47 AM ttt1$nGamesListener$1 done
+INFO: Total O-Wins : 0
+Nov 09, 2023 10:45:47 AM ttt1$nGamesListener$1 done
+INFO: Total Ties : 0
+Nov 09, 2023 10:45:47 AM ttt1$nGamesListener$1 done
+INFO: Overall Winner is Player1(X)
+Nov 09, 2023 10:45:48 AM ttt1 stopResetGame
+INFO: Player1(X) wins!!
+Nov 09, 2023 10:45:48 AM ttt1 stopResetGame
+INFO: Game 3 Ended

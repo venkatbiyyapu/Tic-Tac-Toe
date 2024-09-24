@@ -1,0 +1,37 @@
+o [o,x,x,_22574,_22580,_22586,_22592,_22598,_22604] -1
+o [o,x,_22568,x,_22580,_22586,_22592,_22598,_22604] -1
+o [o,x,_22568,_22574,x,_22586,_22592,_22598,_22604] -2
+o [o,x,_22568,_22574,_22580,x,_22592,_22598,_22604] -1
+o [o,x,_22568,_22574,_22580,_22586,x,_22598,_22604] -2
+o [o,x,_22568,_22574,_22580,_22586,_22592,x,_22604] 0
+o [o,x,_22568,_22574,_22580,_22586,_22592,_22598,x] -2
+o [x,x,o,_22574,_22580,_22586,_22592,_22598,_22604] -1
+o [_22556,x,o,x,_22580,_22586,_22592,_22598,_22604] -1
+o [_22556,x,o,_22574,x,_22586,_22592,_22598,_22604] -2
+o [x,x,_22568,o,_22580,_22586,_22592,_22598,_22604] -2
+o [x,x,_22568,_22574,o,_22586,_22592,_22598,_22604] 0
+o [_22556,x,x,_22574,o,_22586,_22592,_22598,_22604] 0
+o [_22556,x,_22568,x,o,_22586,_22592,_22598,_22604] 0
+o [_22556,x,_22568,_22574,o,x,_22592,_22598,_22604] 0
+o [_22556,x,_22568,_22574,o,_22586,x,_22598,_22604] -1
+o [_22556,x,_22568,_22574,o,_22586,_22592,x,_22604] 1
+o [_22556,x,_22568,_22574,o,_22586,_22592,_22598,x] -1
+o [x,x,_22568,_22574,_22580,o,_22592,_22598,_22604] -2
+o [x,x,_22568,_22574,_22580,_22586,o,_22598,_22604] -1
+o [x,x,_22568,_22574,_22580,_22586,_22592,o,_22604] -2
+o [x,x,_22568,_22574,_22580,_22586,_22592,_22598,o] -1
+ERROR: Stream <stream>(0x12beac5c0):1:4 Syntax error: Operator expected
+Warning: Goal (directive) failed: user:ttt
+Welcome to SWI-Prolog (threaded, 64 bits, version 9.0.4)
+SWI-Prolog comes with ABSOLUTELY NO WARRANTY. This is free software.
+Please run ?- license. for legal details.
+
+For online help and background, visit https://www.swi-prolog.org
+For built-in help, use ?- help(Topic). or ?- apropos(Word).
+
+
+ERROR: I/O error in write on stream user_output (Broken pipe)
+ERROR: In:
+ERROR:   [12] with_output_to(user_output,notrace(print_message_lines_guarded(current_output,...)))
+ERROR:    [8] print_message_guarded(query,'<garbage_collected>') at /opt/homebrew/Cel
+ ? EOF: exit (status 4)
